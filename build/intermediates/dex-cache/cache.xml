@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Data\Ignat\Program\Studio\Metube\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Data\Ignat\Program\Studio\Metube\app\build\intermediates\pre-dexed\debug\classes-cd37dab0f03bca82d9621cc2c307a741f7206d04.jar" />
+    </item>
+    <item
+        jar="C:\Data\Ignat\Program\Studio\Metube\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Data\Ignat\Program\Studio\Metube\app\build\intermediates\pre-dexed\debug\classes-53a4735de8eadf8a6e1942fd5d3389826a7e5a3e.jar" />
+    </item>
+    <item
+        jar="C:\Instalasi\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Data\Ignat\Program\Studio\Metube\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-152736d7b88f1d81d47a78acd2c221285c182651.jar" />
+    </item>
+    <item
+        jar="C:\Data\Ignat\Program\Studio\Metube\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Data\Ignat\Program\Studio\Metube\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-bfb0d817e1239fb33b09664d75ac9a2196749407.jar" />
+    </item>
+
+</items>
